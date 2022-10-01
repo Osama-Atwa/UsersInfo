@@ -1,6 +1,5 @@
-# Expenses Note
-this is a website for saving your expenses currently it is not connected to data base yet.
-you well be able to see you expneses across the year and have a simple statistics that would help you in which month you spent the most.
+# Users Info
+this is a website for saving Users Names And ages it is not connected to data base yet.
 
 
 # Getting Started with Create React App
